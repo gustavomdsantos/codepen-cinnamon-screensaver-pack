@@ -1,3 +1,5 @@
+![codepen.io](http://cdn.flaticon.com/png/64/51/51767.png) ![plus](http://iconshow.me/media/images/ui/ios7-icons/png/64/plus-empty.png) ![linuxMint](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/linux_mint-64.png)
+
 Codepen HTML5 Screensaver Pack for Cinnamon
 ===========================================
 
