@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html class=" -moz-">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="robots" content="noindex"><link rel="canonical" href="http://codepen.io/thebabydino/pen/zvVBvW">
+		<script src="index_arquivos/prefixfree.js"></script>
+		<style>
+		body {width:100%; height:100%; background: #000; overflow:hidden, margin:0}
+		html {width:100%; height:100%; overflow:hidden}
+		</style>
+	</head>
+	<body>
+		<canvas width="1366" height="768"></canvas>
+		<script src="index_arquivos/stopExecutionOnTimeout.js"></script>
+		<script>
+		var c = document.querySelector('canvas'),
+				ct = c.getContext('2d'), d = c.width,
+				a = .25*d, b = .16*d, n = 64;
+		ct.translate(.5*d, .5*d);
+		(function ani(t) {
+			var x, y, θ;
+			ct.fillStyle = 'rgba(0,0,0,.1)';
+			ct.fillRect(-.5*d, -.5*d, d, d);
+			ct.fillStyle = 'hsl(' + t%360 + ',100%,50%)';
+			ct.save();
+			ct.rotate(t*Math.PI/180);
+			ct.translate(.8*a, 0);
+			ct.beginPath();
+			for(var i = 0; i < n; i++) {
+				θ = (i/1.5 - t)*Math.PI/36;
+				x = a*Math.cos(θ);
+				y = b*Math.sin(θ);
+				ct.moveTo(x, y);
+				ct.arc(x, y, (.5*n - Math.abs(i - .5*n))*5/n, 0, 2*Math.PI);
+			}
+			ct.closePath();
+			ct.fill();
+			ct.restore();
+			
+			requestAnimationFrame(ani.bind(this, ++t));
+		})(0);
+		//# sourceURL=pen.js
+		</script>
+		<script src="index_arquivos/css_live_reload_init.js"></script>
+		<div data-url="http://s.codepen.io/boomerang/950cb8d2e1c437c54b1536742575bd6e1448766355176/index.html" style="display:none;" id="link64_adl_tabid">288</div>
+	</body></html>

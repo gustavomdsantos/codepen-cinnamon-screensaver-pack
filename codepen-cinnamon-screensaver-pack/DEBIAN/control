@@ -1,0 +1,39 @@
+Package: codepen-cinnamon-screensaver-pack
+Version: 1.0.0
+Source: http://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack
+Maintainer: Gustavo Moraes <gustavosotnas1@gmail.com>
+Section: misc
+Homepage: http://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack/releases/latest
+Priority: optional
+Architecture: all
+Depends: cinnamon (>= 2.6.0), cinnamon-screensaver (>= 2.6.0)
+Description: Codepen HTML5 Screensaver Pack for Cinnamon
+ A colletion of various animated HTML5 pages adapted from 
+ Codepen.io for use as screensaver in Cinnamon 2.6+ / Linux Mint 17.2+
+ (WebKit engine).
+ .
+ Screensavers:
+ .
+ * "Coiling Loxodromes", by Bali Balo: Three elastic lines that 
+ twist themselves in this minimalist animation.
+ <http://codepen.io/bali_balo/pen/VLqMWV>
+ .
+ * "Flying Colours", by Ana Tudor: A simple, but beautiful 
+ animation of dots making Bezier curves.
+ <http://codepen.io/thebabydino/pen/zvVBvW>
+ .
+ * "Particles", by Ana Tudor: A psychedelic animation of 
+ many colourful dots making circular/spiral forms and sliding all over the screen!
+ <http://codepen.io/thebabydino/pen/shtGe>
+ .
+ * "Rainbow Grid", by Jack Rugile: A grunge-style animation 
+ with colourful sketched squares.
+ <http://codepen.io/jackrugile/pen/bdwvMo>
+ .
+  * "Snake Bugs", by Jack Rugile: Blue snakes that gets red 
+ when they almost collide each other.
+ <http://codepen.io/jackrugile/pen/ZYMJpd>
+ .
+ This .deb was packaged using Quick DEB Builder: 
+ <https://github.com/gustavosotnas/quick-deb-builder>
+
