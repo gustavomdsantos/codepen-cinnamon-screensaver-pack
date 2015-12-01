@@ -13,6 +13,9 @@ A colletion of various animated HTML5 pages adapted from Codepen.io for use as s
  twist themselves in this minimalist animation.
  <http://codepen.io/bali_balo/pen/VLqMWV>
 
+ * "Constellations", by Yash: See stars moving in your screen.
+ <http://codepen.io/yashbhardwaj/pen/EBFxA>
+
  * "Flying Colours", by Ana Tudor: A simple, but beautiful
  animation of dots making Bezier curves.
  <http://codepen.io/thebabydino/pen/zvVBvW>
@@ -24,6 +27,9 @@ A colletion of various animated HTML5 pages adapted from Codepen.io for use as s
  * "Rainbow Grid", by Jack Rugile: A grunge-style animation
  with colourful sketched squares.
  <http://codepen.io/jackrugile/pen/bdwvMo>
+
+ * "Ribbons", by Yash: A clone from Windows 7' Ribbons screensaver.
+ <http://codepen.io/yashbhardwaj/pen/hHgtE>
 
  * "Snake Bugs", by Jack Rugile: Blue snakes that gets red
  when they almost collide each other.
