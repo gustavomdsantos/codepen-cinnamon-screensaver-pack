@@ -1,10 +1,12 @@
-![codepen.io](http://cdn.flaticon.com/png/64/51/51767.png) ![plus](http://iconshow.me/media/images/ui/ios7-icons/png/64/plus-empty.png) ![linuxMint](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/linux_mint-64.png)
-
 Codepen HTML5 Screensaver Pack for Cinnamon
 ===========================================
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-428f7e.svg)](https://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack/blob/master/COPYING)
 [![GitHub version](https://badge.fury.io/gh/gustavosotnas%2Fcodepen-cinnamon-screensaver-pack.svg)](https://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack/releases/latest)
+
+<img alt="linuxMint" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/linux_mint-64.png" align="right">
+<img alt="plus" src="http://iconshow.me/media/images/ui/ios7-icons/png/64/plus-empty.png" align="right">
+<img alt="codepenio" src="http://cdn.flaticon.com/png/64/51/51767.png" align="right">
 
 A colletion of various animated HTML5 pages adapted from Codepen.io for use as screensaver in Cinnamon 2.6+ / Linux Mint 17.2+ (WebKit engine).
 
