@@ -3,7 +3,8 @@
 Codepen HTML5 Screensaver Pack for Cinnamon
 ===========================================
 
-[![GitHub release](https://img.shields.io/github/release/gustavosotnas/codepen-cinnamon-screensaver-pack.svg?style=plastic)](https://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack/releases/latest)
+[![GitHub license](https://img.shields.io/badge/license-MIT-428f7e.svg)](https://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack/blob/master/COPYING)
+[![GitHub version](https://badge.fury.io/gh/gustavosotnas%2Fcodepen-cinnamon-screensaver-pack.svg)](https://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack/releases/latest)
 
 A colletion of various animated HTML5 pages adapted from Codepen.io for use as screensaver in Cinnamon 2.6+ / Linux Mint 17.2+ (WebKit engine).
 
