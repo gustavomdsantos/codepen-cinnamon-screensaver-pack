@@ -1,5 +1,5 @@
 Package: codepen-cinnamon-screensaver-pack
-Version: 1.1.0
+Version: 1.2.0
 Source: http://github.com/gustavosotnas/codepen-cinnamon-screensaver-pack
 Maintainer: Gustavo Moraes <gustavosotnas1@gmail.com>
 Section: misc
@@ -39,6 +39,9 @@ Description: Codepen HTML5 Screensaver Pack for Cinnamon
   * "Snake Bugs", by Jack Rugile: Blue snakes that gets red 
  when they almost collide each other.
  <http://codepen.io/jackrugile/pen/ZYMJpd>
+ .
+  * "Snow", by Nicky Christensen. A simple CSS3 Snow Animation.
+ <http://codepen.io/NickyCDK/pen/AIonk>
  .
  This .deb was packaged using Quick DEB Builder: 
  <https://github.com/gustavosotnas/quick-deb-builder>

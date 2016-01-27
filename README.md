@@ -38,6 +38,9 @@ A colletion of various animated HTML5 pages adapted from Codepen.io for use as s
  when they almost collide each other.
  <http://codepen.io/jackrugile/pen/ZYMJpd>
 
+ * "Snow", by Nicky Christensen. A simple CSS3 Snow Animation.
+ <http://codepen.io/NickyCDK/pen/AIonk>
+
 This .deb was packaged using Quick DEB Builder:
  <https://github.com/gustavosotnas/quick-deb-builder>
 
